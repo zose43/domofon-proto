@@ -1,3 +1,3 @@
-module grpc-domofon-proto
+module domofon-proto
 
 go 1.21

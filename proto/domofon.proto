@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package domofon;
 
-option go_package = "github.com/zose43/domofon;domofon_v1;";
+option go_package = "github.com/zose43/domofon-proto;domofon_v1;";
 
 message RegisterRequest {
   string email = 1;
